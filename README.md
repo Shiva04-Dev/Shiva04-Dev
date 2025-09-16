@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shiva04-Dev
-- 👀 I’m interested in learning about any and all programming languages
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on any projects that will help me become a better programmer for my potential future jobs
-- 📫 How to reach me through my gmail or linkedin
+- 👀 I’m interested in enhancing my technical proficiences
+- 🌱 I’m currently completing my Bachelors Undergrad in Computer Science
+- 💞️ I’m looking to collaborate on projects that will grow my tech stack
 - ⚡ Fun fact: I used to play state/provincial field hockey
 
 <!---
