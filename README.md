@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @Shiva04-Dev
-- 👀 I’m interested in enhancing my technical proficiences
-- 🌱 I’m currently completing my Bachelors Undergrad in Computer Science
-- 💞️ I’m looking to collaborate on projects that will grow my tech stack
-- ⚡ Fun fact: I used to play state/provincial field hockey
+# Hi, I'm Shiva Nagadan 👋
 
-<!---
-Shiva04-Dev/Shiva04-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full-Stack Engineer** | Software Engineering Student | Johannesburg, South Africa
+
+I'm a Computing student at Belgium Campus University specializing in Software Engineering, with hands-on experience building scalable web applications and database-driven systems. I focus on full-stack development using C#, Java, JavaScript, and modern frameworks.
+
+## 🔧 Tech Stack
+
+**Languages:** C# • Java • JavaScript • Python • PHP  
+**Frontend:** React • HTML5 • CSS3 • EJS  
+**Backend:** ASP.NET Core • Node.js • Express.js • Spring Boot  
+**Databases:** SQL Server • PostgreSQL • MySQL • MongoDB  
+**Tools:** Git • Visual Studio • VS Code • Postman • Entity Framework Core
+
+## 🚀 What I'm Working On
+
+- Building an **Internship Management System** with ASP.NET Core and React
+- Co-leading an **AI-Assisted Generator Monitoring** project for predictive maintenance
+- Expanding my portfolio with full-stack projects
+
+## 🏆 Achievements
+
+- **98%** project score - highest in cohort for Student Management System
+- Led 8-month team project delivered ahead of schedule
+- Developed multiple production-ready applications across desktop and web platforms
+
+## 🌍 Open To
+
+International internship and graduate program opportunities in **Europe and globally**. I'm looking to contribute to teams building impactful software solutions.
+
+## 📫 Let's Connect
+
+**Portfolio:** [shivanagadan.vercel.app](https://shivanagadan.vercel.app)  
+**LinkedIn:** [linkedin.com/in/shiva-ganesh](https://linkedin.com/in/shiva-ganesh)  
+**Email:** ganeshshiva772@gmail.com
+
+---
+
+⚡ **Fun Fact:** Former provincial field hockey player turned software engineer
