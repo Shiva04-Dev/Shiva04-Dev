@@ -30,8 +30,8 @@ International internship and graduate program opportunities in **Europe and glob
 
 ## 📫 Let's Connect
 
-**Portfolio:** [shivanagadan.vercel.app](https://shivanagadan.vercel.app)  
-**LinkedIn:** [linkedin.com/in/shiva-ganesh](https://linkedin.com/in/shiva-ganesh)  
+**Portfolio:** [shivanagadan.vercel.app](https://shivanagadan.vercel.app/)  
+**LinkedIn:** [linkedin.com/in/shiva-ganesh](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BSYFyGgG1R%2FKU89OQy4v%2BDQ%3D%3D)  
 **Email:** ganeshshiva772@gmail.com
 
 ---
