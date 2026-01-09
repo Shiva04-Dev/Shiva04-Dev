@@ -1,6 +1,6 @@
 # Hi, I'm Shiva Nagadan 👋
 
-**Full-Stack Engineer** | Software Engineering Student | Johannesburg, South Africa
+**Aspiring Full-Stack Engineer** | Software Engineering Student | Johannesburg, South Africa
 
 I'm a Computing student at Belgium Campus University specializing in Software Engineering, with hands-on experience building scalable web applications and database-driven systems. I focus on full-stack development using C#, Java, JavaScript, and modern frameworks.
 
