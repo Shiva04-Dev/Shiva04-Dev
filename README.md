@@ -6,11 +6,11 @@ I'm a Computing student at Belgium Campus University specializing in Software En
 
 ## 🔧 Tech Stack
 
-**Languages:** C# • Java • JavaScript • Python • PHP  
-**Frontend:** React • HTML5 • CSS3 • EJS  
-**Backend:** ASP.NET Core • Node.js • Express.js • Spring Boot  
+**Languages:** C# • Java • JavaScript • Python • PHP • Delphi 
+**Frontend:** React • HTML5 • CSS3 • EJS • JavaScript
+**Backend:** ASP.NET Core • Node.js • Express.js • Spring Boot • RESTful APIs
 **Databases:** SQL Server • PostgreSQL • MySQL • MongoDB  
-**Tools:** Git • Visual Studio • VS Code • Postman • Entity Framework Core
+**Tools:** Git • Visual Studio • VS Code • Postman • Entity Framework Core • IntelliJ IDEA • Apache Netbeans • Postman
 
 ## 🚀 What I'm Working On
 
@@ -26,7 +26,7 @@ I'm a Computing student at Belgium Campus University specializing in Software En
 
 ## 🌍 Open To
 
-International internship and graduate program opportunities in **Europe and globally**. I'm looking to contribute to teams building impactful software solutions.
+Internship and graduate program opportunities **globally**. I'm looking to contribute to teams building impactful software solutions.
 
 ## 📫 Let's Connect
 
