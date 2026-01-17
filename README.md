@@ -20,7 +20,7 @@ I'm a Computing student at Belgium Campus University specializing in Software En
 
 ## 🏆 Achievements
 
-- **98%** project score - highest in cohort for Student Management System
+- **98%** project score - highest in subject for Student Management System
 - Led 8-month team project delivered ahead of schedule
 - Developed multiple production-ready applications across desktop and web platforms
 
