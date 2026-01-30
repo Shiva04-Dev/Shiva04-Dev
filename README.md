@@ -36,4 +36,4 @@ Internship and graduate program opportunities **globally**. I'm looking to contr
 
 ---
 
-⚡ **Fun Fact:** Former provincial field hockey player turned software engineer
+⚡ **Fun Fact:** Former field hockey player and chef turned software engineer
