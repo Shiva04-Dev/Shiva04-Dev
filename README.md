@@ -1,75 +1,141 @@
-# Hi, I'm Shiva Nagadan 👋
+<h1 align="center">Hi, I'm Shiva 👋</h1>
 
-**Aspiring Full-Stack Engineer** | Software Engineering Student
+<p align="center">
+  <strong>Full-Stack Engineer · AI Engineer</strong><br/>
+  Final-year Software Engineering (Honours) student · Johannesburg, South Africa
+</p>
 
-High-achieving Computer Science and Information Systems graduate with strong academic results. Analytical and numeric mindset with strong problem-solving skills essential for credit analytics, financial analysis, and data science roles. Proven ability to deliver exceptional service by actively listening to customer needs and creating innovative solutions tailored to requirements. Track record of contributing to team success through efficient task completion, meticulous planning, and accurate record-keeping. Actively engaged in innovation processes through brainstorming creative solutions that support business objectives. Committed to developing career potential through knowledge-sharing initiatives, training opportunities, and broadening expertise in industry trends. Eager to take charge of personal and professional growth through continuous learning, workshops, seminars, and building competencies aligned with organizational values to reach full potential.
-
-## 🔧 Tech Stack
-
-**Programming:** C# | Java | JavaScript | Python | PHP | SQL
-**Frameworks:** ASP.NET Core | Node.js | Express.js | Spring Boot | React | Entity Framework Core
-**Databases:** SQL Server | PostgreSQL | MySQL | MongoDB | Query Optimisation | Database Design
-**Tools:** Git | Visual Studio | VS Code | IntelliJ IDEA | Postman | Jira
-**Competencies:** Object-Oriented Programming | MVC Model | Exception Handling | Software Testing | Debugging | System Analysis | Problem-Solving | RESTful APIs
-
-## 🚀 Key Projects
-
-**Internship Management System**	   	   	           
-Technologies: C#, ASP.NET Core, SQL Server(local), PostgreSQL(Deployment), Entity Framework Core, React
-•	Built and innovated real-world solution solving practical problem of connecting students with companies through rigorous, hands-on development
-•	Applied methodical problem-solving approach to analyse business requirements and design scalable software solution using latest technologies
-•	Demonstrated strong attention to detail in implementing authentication, role-based access control, and data validation with industry-leading frameworks
-•	Conducted business analysis to gather functional requirements from multiple stakeholders and translate into technical specifications
-•	Applied data engineering principles to design normalized relational database schema supporting complex queries and data analytics
-•	Project rigorously reviewed by technical leads, demonstrating job-ready expertise in full software development lifecycle
-
-**Student Management System**
-Technologies: C#, .NET Framework, Windows Forms, MySQL, Git
-•	Led 8-month project in fast-paced, high-intensity environment building real-world application for student records management
-•	Applied methodical problem-solving and solution design approach to tackle complex technical challenges
-•	Demonstrated excellent verbal communication skills in leading team meetings, presenting technical solutions, and resolving conflicts
-•	Built strong relationships with team members while driving project to successful completion through collaborative approach
-•	Achieved 98% score through rigorous attention to detail and passion for excellence
-
-## 🚀 Working on
-
-**Java E-Commerce Platform**
-Technologies: Java, Spring Boot, PostgreSQL
-•	Built innovative e-commerce solution from scratch using industry-leading Java frameworks and cutting-edge technologies
-•	Solved real-world problems of user authentication, product management, and transaction processing through practical, hands-on development
-•	Applied Computer Science fundamentals including data structures, algorithms, and design patterns to create efficient, scalable solution
-•	Demonstrated analytical skills in optimizing database queries and system performance using methodical approach
-•	Developed technical documentation with strong attention to detail, showcasing excellent written English communication skills
-
-**SQL Portfolio**
-Technologies: SQL Server, PostgreSQL, T-SQL
-• Built multiple real-world database solutions (LibraryDB, HRDB, SalesDB) solving practical data
-management challenges
-• Applied data engineering techniques including ETL concepts, data normalization, and query
-optimization for performance
-• Conducted business analysis to understand organizational data needs and translate into database
-schemas and reporting solutions
-• Demonstrated strong analytical skills in writing complex queries including joins, subqueries, stored
-procedures, and triggers
-• Created comprehensive technical documentation showcasing excellent written communication and
-attention to detail
-
-## 🏆 Achievements
-
-- **98%** project score - highest in subject for our Student Management System
-- Led 8-month team project delivered ahead of schedule
-- Developed multiple production-ready applications across desktop and web platforms
-
-## 🌍 Open To
-
-Internship and graduate program opportunities **globally** and **locally**. I'm looking to contribute to teams building impactful software solutions.
-
-## 📫 Let's Connect
-
-**Portfolio:** [shivanagadan.vercel.app](https://shivanagadan.vercel.app/)  
-**LinkedIn:** [linkedin.com/in/shiva-ganesh](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BSYFyGgG1R%2FKU89OQy4v%2BDQ%3D%3D)  
-**Email:** ganeshshiva772@gmail.com
+<p align="center">
+  <a href="https://shivanagadan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiva-ganesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ganeshshiva772@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Shiva04-Dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-⚡ **Fun Fact:** Former field hockey player and chef turned software engineer
+## 🏆 Latest Win
+
+> **1st Place — Naspers AI for Good Hackathon 2026**  
+> Built [Impilo](#-featured-project-impilo), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
+
+---
+
+## About Me
+
+I'm a Software Engineering student who builds real things — production-ready web apps, AI systems, and cloud-deployed services. I focus on the full stack: clean backend architecture, sensible data design, and integrated AI where it adds genuine value.
+
+I've led projects from initial architecture to deployment, including an award-winning AI chatbot serving South African youth and an enterprise-grade internship management platform. I'm actively pursuing Azure AI certifications and growing my cloud AI engineering expertise.
+
+---
+
+## 🤖 Featured Project: Impilo — AI Mental Health WhatsApp Chatbot
+
+> **1st Place · Naspers "AI for Good" Challenge · June 2026**
+
+Impilo is a WhatsApp-based AI mental health companion built for South African youth. I was the sole engineer across a five-person cross-functional team, responsible for the entire technical build.
+
+**What I built:**
+- **Generative AI conversation engine** — Azure OpenAI GPT-4o-mini with a clinically-informed, multilingual system prompt architecture guiding mood screening, breathing exercises, and cognitive reframing
+- **Deterministic crisis safety layer** — keyword interception that fires *before* the LLM is invoked, ensuring crisis and GBV referrals are delivered verbatim and cannot be altered by AI generation
+- **Per-user conversation memory** — Azure Cosmos DB storing session history and triggering 48-hour automated follow-up check-ins
+- **Production deployment** — Azure App Service with secure environment management; resolved OAuth token failures, API misconfigurations, and tunnel interference under live hackathon pressure
+
+**Stack:**
+`Node.js` · `Express` · `Azure OpenAI (GPT-4o-mini)` · `Azure Cosmos DB` · `Azure App Service` · `WhatsApp Cloud API` · `Git`
+
+---
+
+## 🚀 Projects
+
+### Internship Management System
+**Full-Stack Developer** · *Nov 2025 – Feb 2026*
+
+End-to-end platform connecting students, companies, and administrators through a workflow-based application and approval process. Implemented role-based authentication (JWT + RBAC), RESTful APIs, and a normalised relational schema across a multi-user production system.
+
+`C#` · `ASP.NET Core` · `SQL Server` · `PostgreSQL` · `Entity Framework Core` · `React` · `REST APIs`
+
+---
+
+### Java E-Commerce Platform
+**Backend Developer** · *Dec 2025 – Present*
+
+Scalable e-commerce backend featuring shopping cart logic, inventory management, product catalogue APIs, and secure user authentication. Built following clean architecture principles with full SDLC and Agile practices.
+
+`Java` · `Spring Boot` · `PostgreSQL` · `Hibernate`
+
+---
+
+### Student Management System
+**Project Lead & Software Engineer** · *Apr 2024 – Nov 2024*
+
+Led a team of 4 through an 8-month desktop application build for student records management. Resolved data-mapping issues between UI and database layers, mediated team conflicts, and delivered ahead of schedule.
+
+**Result: 98% final score — highest in cohort.**
+
+`C#` · `Windows Forms` · `.NET Framework` · `MySQL` · `Git`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`C#` `Java` `Python` `JavaScript` `PHP` `SQL`
+
+**Frontend**
+`React` `HTML5` `CSS3` `EJS`
+
+**Backend**
+`ASP.NET Core` `Node.js` `Express.js` `Spring Boot` `.NET Framework`
+
+**AI & Cloud**
+`Azure OpenAI` `Azure Cosmos DB` `Azure App Service` `Azure AI Foundry` `GPT-4o-mini`
+
+**Databases**
+`SQL Server` `PostgreSQL` `MySQL` `MongoDB`
+
+**Security & Auth**
+`JWT` `Role-Based Access Control (RBAC)` `OAuth`
+
+**Tools & Platforms**
+`Git` `Postman` `VS Code` `IntelliJ IDEA` `Maven` `Apache NetBeans`
+
+**Concepts**
+`REST APIs` `OOP` `MVC` `SDLC` `Agile` `AI Agents` `System Design` `Software Testing`
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| AI-900: Microsoft Azure AI Fundamentals | Microsoft | April 2026 |
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computing in Software Engineering (Honours)**
+*Belgium Campus University, Pretoria · 2023 – Present*
+
+Relevant coursework: Software Engineering, SDLC, Database Development, Web Programming, Software Testing, Machine Learning, Software Analysis & Design, Project Management
+
+---
+
+## 🌍 Open To
+
+Graduate programmes and internship opportunities across **South Africa** and **internationally** — particularly in full-stack engineering, cloud AI engineering, and fintech.
+
+---
+
+<p align="center">
+  ⚡ Former field hockey player and chef turned software engineer
+</p>
