@@ -9,7 +9,7 @@
   <a href="https://shivanagadan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/shiva-ganesh" target="_blank">
+  <a href="https://www.linkedin.com/in/shiva-ganesh-nagadan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ganeshshiva772@gmail.com">
@@ -25,7 +25,7 @@
 ## 🏆 Latest Win
 
 > **1st Place — Naspers AI for Good Hackathon 2026**  
-> Built [Impilo](#-featured-project-impilo), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
+> Built [Impilo](im-pilo.vercel.app), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
 
 ---
 
