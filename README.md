@@ -118,6 +118,7 @@ Led a team of 4 through an 8-month desktop application build for student records
 | Certification | Issuer | Date |
 |---|---|---|
 | AI-900: Microsoft Azure AI Fundamentals | Microsoft | April 2026 |
+| AI-102: Microsoft Azure AI Associate | Microsoft | June 2026 |
 
 ---
 
