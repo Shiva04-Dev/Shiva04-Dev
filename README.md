@@ -1,33 +1,47 @@
-<h1 align="center">Hi, I'm Shiva 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Full-Stack Engineer · AI Engineer</strong><br/>
-  Final-year Software Engineering (Honours) student · Johannesburg, South Africa
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:6366F1,100:06B6D4&height=6&section=header" width="100%" alt=""/>
 
-<p align="center">
-  <a href="https://shivanagadan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shiva-ganesh-nagadan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ganeshshiva772@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Shiva04-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/>
 
----
+🔴 &nbsp;🟡 &nbsp;🟢 &nbsp; `shiva@engineering — zsh`
 
-## 🏆 Latest Win
+</div>
 
-> **1st Place — Naspers AI for Good Hackathon 2026**  
-> Built [Impilo](im-pilo.vercel.app), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
+```bash
+$ whoami
+Shiva Ganesh Nagadan — Full-Stack Engineer · AI / Cloud Engineer
+Johannesburg, South Africa
 
----
+$ cat latest_win.log
+🏆 1st Place — Naspers "AI for Good" Hackathon 2026
+   Built Impilo, an AI mental-health companion on WhatsApp — sole engineer,
+   blank repo to production deployment.
+
+$ status --current
+Final-year Software Engineering (Honours) student
+Open to graduate & internship roles — South Africa and internationally
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1500&color=A78BFA&vCenter=true&width=560&height=30&lines=echo+%22Building+production-ready+AI+systems%22;echo+%22Open+to+Work+%E2%80%94+let%27s+talk%22;cat+latest_win.log" alt="terminal cursor"/>
+
+<br/><br/>
+
+<a href="https://shivanagadan.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/shiva-ganesh-nagadan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ganeshshiva772@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Shiva04-Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=Shiva04-Dev&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views"/>
+
+</div>
+
+<br/>
 
 ## About Me
 
@@ -35,22 +49,31 @@ I'm a Software Engineering student who builds real things — production-ready w
 
 I've led projects from initial architecture to deployment, including an award-winning AI chatbot serving South African youth and an enterprise-grade internship management platform. I'm actively pursuing Azure AI certifications and growing my cloud AI engineering expertise.
 
+- 🔭 Building a Java Spring Boot e-commerce backend
+- ☁️ Studying for AI-500 Certification
+- 🌱 Former field hockey player and chef turned software engineer
+
 ---
 
-## 🤖 Featured Project: Impilo — AI Mental Health WhatsApp Chatbot
+## 🤖 Featured Project — Impilo
 
-> **1st Place · Naspers "AI for Good" Challenge · June 2026**
+**AI Mental Health WhatsApp Chatbot**
+<img src="https://img.shields.io/badge/🏆_1st_Place-Naspers_AI_for_Good_2026-7C3AED?style=for-the-badge" alt="1st place"/>
 
 Impilo is a WhatsApp-based AI mental health companion built for South African youth. I was the sole engineer across a five-person cross-functional team, responsible for the entire technical build.
 
-**What I built:**
-- **Generative AI conversation engine** — Azure OpenAI GPT-4o-mini with a clinically-informed, multilingual system prompt architecture guiding mood screening, breathing exercises, and cognitive reframing
-- **Deterministic crisis safety layer** — keyword interception that fires *before* the LLM is invoked, ensuring crisis and GBV referrals are delivered verbatim and cannot be altered by AI generation
-- **Per-user conversation memory** — Azure Cosmos DB storing session history and triggering 48-hour automated follow-up check-ins
-- **Production deployment** — Azure App Service with secure environment management; resolved OAuth token failures, API misconfigurations, and tunnel interference under live hackathon pressure
+<details open>
+<summary><strong>What I built</strong></summary>
+<br/>
 
-**Stack:**
-`Node.js` · `Express` · `Azure OpenAI (GPT-4o-mini)` · `Azure Cosmos DB` · `Azure App Service` · `WhatsApp Cloud API` · `Git`
+- **Generative AI conversation engine**: Azure OpenAI GPT-4o-mini with a clinically-informed, multilingual system prompt architecture guiding mood screening, breathing exercises, and cognitive reframing
+- **Deterministic crisis safety layer**: keyword interception that fires *before* the LLM is invoked, ensuring crisis and GBV referrals are delivered verbatim and cannot be altered by AI generation
+- **Per-user conversation memory**: Azure Cosmos DB storing session history and triggering 48-hour automated follow-up check-ins
+- **Production deployment**: Azure App Service with secure environment management; resolved OAuth token failures, API misconfigurations, and tunnel interference under live hackathon pressure
+
+</details>
+
+`Stack: Node.js · Express · Azure OpenAI (GPT-4o-mini) · Azure Cosmos DB · Azure App Service · WhatsApp Cloud API`
 
 ---
 
@@ -61,64 +84,49 @@ Impilo is a WhatsApp-based AI mental health companion built for South African yo
 
 End-to-end platform connecting students, companies, and administrators through a workflow-based application and approval process. Implemented role-based authentication (JWT + RBAC), RESTful APIs, and a normalised relational schema across a multi-user production system.
 
-`C#` · `ASP.NET Core` · `SQL Server` · `PostgreSQL` · `Entity Framework Core` · `React` · `REST APIs`
+`Stack: C# · ASP.NET Core · SQL Server · PostgreSQL · Entity Framework Core · React · REST APIs`
 
----
+<br/>
 
 ### Java E-Commerce Platform
 **Backend Developer** · *Dec 2025 – Present*
 
 Scalable e-commerce backend featuring shopping cart logic, inventory management, product catalogue APIs, and secure user authentication. Built following clean architecture principles with full SDLC and Agile practices.
 
-`Java` · `Spring Boot` · `PostgreSQL` · `Hibernate`
+`Stack: Java · Spring Boot · PostgreSQL · Hibernate`
 
----
+<br/>
 
 ### Student Management System
-**Project Lead & Software Engineer** · *Apr 2024 – Nov 2024*
+**Project Lead & Software Engineer** · *Apr 2024 – Nov 2024* · **98% final score — highest in cohort**
 
 Led a team of 4 through an 8-month desktop application build for student records management. Resolved data-mapping issues between UI and database layers, mediated team conflicts, and delivered ahead of schedule.
 
-**Result: 98% final score — highest in cohort.**
-
-`C#` · `Windows Forms` · `.NET Framework` · `MySQL` · `Git`
+`Stack: C# · Windows Forms · .NET Framework · MySQL · Git`
 
 ---
 
-## 🛠️ Tech Stack
+## 📦 Tech Stack
 
-**Languages**
-`C#` `Java` `Python` `JavaScript` `PHP` `SQL`
-
-**Frontend**
-`React` `HTML5` `CSS3` `EJS`
-
-**Backend**
-`ASP.NET Core` `Node.js` `Express.js` `Spring Boot` `.NET Framework`
-
-**AI & Cloud**
-`Azure OpenAI` `Azure Cosmos DB` `Azure App Service` `Azure AI Foundry` `GPT-4o-mini`
-
-**Databases**
-`SQL Server` `PostgreSQL` `MySQL` `MongoDB`
-
-**Security & Auth**
-`JWT` `Role-Based Access Control (RBAC)` `OAuth`
-
-**Tools & Platforms**
-`Git` `Postman` `VS Code` `IntelliJ IDEA` `Maven` `Apache NetBeans`
-
-**Concepts**
-`REST APIs` `OOP` `MVC` `SDLC` `Agile` `AI Agents` `System Design` `Software Testing`
+```yaml
+# stack.yml
+languages:     [C#, Java, Python, JavaScript, TypeScript, PHP, SQL]
+frontend:      [React, HTML5, CSS3]
+backend:       [ASP.NET Core, .NET Framework, Node.js, Express, Spring Boot]
+ai_and_cloud:  [Azure OpenAI (GPT-4o-mini), Azure AI Foundry, Azure Cosmos DB, Azure App Service]
+databases:     [SQL Server, PostgreSQL, MySQL, MongoDB]
+security:      [JWT, RBAC, OAuth]
+tooling:       [Git, GitHub Actions, Postman, VS Code, IntelliJ IDEA, Maven, Apache NetBeans]
+```
 
 ---
 
 ## 📜 Certifications
 
 | Certification | Issuer | Date |
-|---|---|---|
-| AI-900: Microsoft Azure AI Fundamentals | Microsoft | April 2026 |
-| AI-102: Microsoft Azure AI Associate | Microsoft | June 2026 |
+|---|:---:|---|
+| **AI-900** — Microsoft Azure AI Fundamentals | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | April 2026 |
+| **AI-102** — Microsoft Azure AI Associate | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) | June 2026 |
 
 ---
 
@@ -131,12 +139,26 @@ Relevant coursework: Software Engineering, SDLC, Database Development, Web Progr
 
 ---
 
-## 🌍 Open To
+## 🐍 Contribution Activity
 
-Graduate programmes and internship opportunities across **South Africa** and **internationally** — particularly in full-stack engineering, cloud AI engineering, and fintech.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiva04-Dev/Shiva04-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shiva04-Dev/Shiva04-Dev/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Shiva04-Dev/Shiva04-Dev/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
+
+<sub>Renders once the workflow below runs for the first time in `Shiva04-Dev/Shiva04-Dev`.</sub>
 
 ---
 
-<p align="center">
-  ⚡ Former field hockey player and chef turned software engineer
-</p>
+```bash
+$ open-to
+Graduate & internship roles — South Africa + international
+Full-stack engineering · Cloud AI engineering · Fintech
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:6366F1,100:06B6D4&height=6&section=header" width="100%" alt=""/>
+</div>
