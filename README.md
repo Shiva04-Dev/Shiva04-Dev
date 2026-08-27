@@ -156,7 +156,7 @@ Relevant coursework: Software Engineering, SDLC, Database Development, Web Progr
 ```bash
 $ open-to
 Graduate & internship roles — South Africa + international
-Full-stack engineering · Cloud AI engineering · Fintech
+Full-stack engineering · Cloud AI engineering · Healthcare AI Tech
 ```
 
 <div align="center">
