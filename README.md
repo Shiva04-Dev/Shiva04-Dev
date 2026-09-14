@@ -28,30 +28,30 @@
 
 ## 🏆 Latest Win
 
-> **1st Place — Naspers AI for Good Hackathon 2026**  
-> Built [Impilo](https://github.com/Shiva04-Dev/Impilo-Fallback), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
+> **1st Place: Naspers AI for Good Hackathon 2026**  
+> Built [Impilo](https://github.com/Shiva04-Dev/Impilo-Fallback), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team, from blank repo to live deployment.
 
 ---
 
 ## About Me
 
-I'm a Software Engineering student who builds real things — production-ready web apps, AI systems, and cloud-deployed services. I focus on the full stack: clean backend architecture, sensible data design, and integrated AI where it adds genuine value.
+I'm a Software Engineering student who builds real things; production-ready web apps, AI systems, and cloud-deployed services. I focus on the full stack: clean backend architecture, sensible data design, and integrated AI where it adds genuine value.
 
 I've led projects from initial architecture to deployment, including an award-winning AI chatbot serving South African youth and an enterprise-grade internship management platform. I'm actively pursuing Azure AI certifications and growing my cloud AI engineering expertise.
 
 ---
 
-## 🤖 Featured Project: Impilo — AI Mental Health WhatsApp Chatbot
+## 🤖 Featured Project: Impilo - Mental Health WhatsApp Chatbot
 
 > **1st Place · Naspers "AI for Good" Challenge · June 2026**
 
 Impilo is a WhatsApp-based AI mental health companion built for South African youth. I was the sole engineer across a five-person cross-functional team, responsible for the entire technical build.
 
 **What I built:**
-- **Generative AI conversation engine** — Azure OpenAI GPT-4o-mini with a clinically-informed, multilingual system prompt architecture guiding mood screening, breathing exercises, and cognitive reframing
-- **Deterministic crisis safety layer** — keyword interception that fires *before* the LLM is invoked, ensuring crisis and GBV referrals are delivered verbatim and cannot be altered by AI generation
-- **Per-user conversation memory** — Azure Cosmos DB storing session history and triggering 48-hour automated follow-up check-ins
-- **Production deployment** — Azure App Service with secure environment management; resolved OAuth token failures, API misconfigurations, and tunnel interference under live hackathon pressure
+- **Generative AI conversation engine**: Azure OpenAI GPT-4o-mini with a clinically-informed, multilingual system prompt architecture guiding mood screening, breathing exercises, and cognitive reframing
+- **Deterministic crisis safety layer**: keyword interception that fires *before* the LLM is invoked, ensuring crisis and GBV referrals are delivered verbatim and cannot be altered by AI generation
+- **Per-user conversation memory**: Azure Cosmos DB storing session history and triggering 48-hour automated follow-up check-ins
+- **Production deployment**: Azure App Service with secure environment management; resolved OAuth token failures, API misconfigurations, and tunnel interference under live hackathon pressure
 
 **Stack:**
 `Node.js` · `Express` · `Azure OpenAI (GPT-4o-mini)` · `Azure Cosmos DB` · `Azure App Service` · `WhatsApp Cloud API` · `Git`
@@ -83,7 +83,7 @@ Scalable e-commerce backend featuring shopping cart logic, inventory management,
 
 Led a team of 4 through an 8-month desktop application build for student records management. Resolved data-mapping issues between UI and database layers, mediated team conflicts, and delivered ahead of schedule.
 
-**Result: 98% final score — highest in cohort.**
+**Result: 98% final score; highest in cohort.**
 
 `C#` · `Windows Forms` · `.NET Framework` · `MySQL` · `Git`
 
