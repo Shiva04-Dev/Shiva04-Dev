@@ -29,7 +29,7 @@
 ## 🏆 Latest Win
 
 > **1st Place — Naspers AI for Good Hackathon 2026**  
-> Built [Impilo](im-pilo.vercel.app), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
+> Built [Impilo](https://github.com/Shiva04-Dev/Impilo-Fallback), a production-ready AI mental health companion on WhatsApp, as the **sole engineer** on the team — from blank repo to live deployment.
 
 ---
 
