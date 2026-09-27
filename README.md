@@ -61,7 +61,7 @@ Impilo is a WhatsApp-based AI mental health companion built for South African yo
 ## 🚀 Projects
 
 ### Internship Management System
-**Full-Stack Developer** · *Nov 2025 – Feb 2026*
+**Full-Stack Developer** · *Nov 2025 – Aug 2026*
 
 End-to-end platform connecting students, companies, and administrators through a workflow-based application and approval process. Implemented role-based authentication (JWT + RBAC), RESTful APIs, and a normalised relational schema across a multi-user production system. 
 Deployed at: [IMS Internships](imsinternships.vercel.app)
